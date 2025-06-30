@@ -1,0 +1,40 @@
+## Build artifacts
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Test results
+TestResults/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+## DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+*.log
+
+## Others
+*.db
+*.sqlite
