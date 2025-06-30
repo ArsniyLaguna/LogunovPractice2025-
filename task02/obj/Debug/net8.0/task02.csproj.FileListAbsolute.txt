@@ -1,0 +1,12 @@
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/bin/Debug/net8.0/task02.deps.json
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/bin/Debug/net8.0/task02.dll
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/bin/Debug/net8.0/task02.pdb
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.AssemblyInfoInputs.cache
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.AssemblyInfo.cs
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.csproj.CoreCompileInputs.cache
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.sourcelink.json
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.dll
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/refint/task02.dll
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/task02.pdb
+/Users/arsenijlogunov/Documents/GitHub/LogunovPractice2025-/task02/obj/Debug/net8.0/ref/task02.dll
