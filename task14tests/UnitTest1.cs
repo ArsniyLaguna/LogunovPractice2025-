@@ -24,6 +24,6 @@ public class DefiniteIntegralTests
     public void TestLinearFromZero()
     {
         double result = Solve(0, 5, x => x, 1e-6, 8);
-        Assert.Equal(10, result, 5);
+        Assert.Equal(12.5, result, 5);
     }
 }
